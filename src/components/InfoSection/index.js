@@ -37,7 +37,7 @@ const InfoSection = ({
     } else if (id === 'beneficiary') {
         buttonLink = '//mariolemieux.org/austins-playrooms/';
     } else {
-        buttonLink = 'mailto:info@pghdonutdash.org';
+        buttonLink = '/contactus';
     }
 
     return (
