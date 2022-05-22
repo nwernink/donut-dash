@@ -3,7 +3,7 @@ import { Link as LinkR } from 'react-router-dom';
 import { Link as LinkS } from 'react-scroll';
 
 export const Nav = styled.nav`
-    background: ${({ scrollNav }) => (scrollNav ? 'linear-gradient(90deg, #00498A, #ff8097)' : 'transparent')};
+    background: ${({ scrollNav }) => (scrollNav ? 'linear-gradient(90deg, #70c9ff, #ff8097)' : 'transparent')}; // #00498A, #ff8097
     height: 80px;
     margin-top: -100px;
     margin-left: -10px;

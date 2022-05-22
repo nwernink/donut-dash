@@ -6,7 +6,7 @@ export const HistoryContainer = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(90deg, #00498A, #ff8097);
+    background: linear-gradient(90deg, #70c9ff, #ff8097);
     margin-left: -10px;
     margin-right: -10px;
 `

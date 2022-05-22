@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const InfoContainer = styled.div`
     color: #fff;
-    background: ${({lightBg}) => (lightBg ? '#fff' : 'linear-gradient(90deg, #00498A, #ff8097)')};
+    background: ${({lightBg}) => (lightBg ? '#fff' : 'linear-gradient(90deg, #70c9ff, #ff8097)')};
     margin-left: -10px;
     margin-right: -10px;
     overflow-x: hidden;
